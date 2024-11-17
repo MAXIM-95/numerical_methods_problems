@@ -1,4 +1,5 @@
 Задана квазилинейная система уравнений мелкой воды, описывающая неустановившееся течение в тонком слое жидкости:
+
 $\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};$
 
 h – толщина слоя жидкости,
@@ -22,10 +23,8 @@ s(t) = 0.$
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 $$\begin{equation*}
  \begin{cases}
-   2 |x|(2 - x) = a, 
+   \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, 
    \\
-   x < 2,
-   \\
-   x \ne 0.
+   \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
  \end{cases}
 \end{equation*}$$
