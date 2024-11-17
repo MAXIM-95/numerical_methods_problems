@@ -1,7 +1,7 @@
 Задана квазилинейная система уравнений мелкой воды, описывающая неустановившееся течение в тонком слое жидкости:
 $\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};$
 
-$$\left\{\begin{aligned}2y+11x&=15\\10y-11x&=9\end{aligned}\right.$$
+$$\left{\begin{aligned}2y+11x&=15\\10y-11x&=9\end{aligned}\right.$$
 
 $\begin{equation*} 
   \begin{cases}
