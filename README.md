@@ -26,7 +26,10 @@ $$φ(x)=\begin{equation*}
    \\
    1.0, x ≥ 0.5.
  \end{cases}
-\end{equation*}$$
+\end{equation*}
+ψ(x) = 0,\\
+f(t) = 0,\\
+s(t) = 0.$$
 
 $ψ(x) = 0,\\
 f(t) = 0,\\
