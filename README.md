@@ -4,6 +4,7 @@ $\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂
 $\begin{equation*} 
  \begin{cases}
    \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0,
+   \\
    \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
  \end{cases}
 \end{equation*}$
