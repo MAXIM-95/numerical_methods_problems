@@ -1,11 +1,17 @@
 Задана квазилинейная система уравнений мелкой воды, описывающая неустановившееся течение в тонком слое жидкости:
 
-$\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};$
+$$\begin{equation*}
+ \begin{cases}
+   \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, 
+   \\
+   \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
+ \end{cases}
+\end{equation*}$$
 
-h – толщина слоя жидкости,
+$h – толщина слоя жидкости,
 u – скорость жидкости,
 b – профиль дна,
-g – ускорение свободного падения.
+g – ускорение свободного падения.$
 
 Область решения: $0 ≤ x ≤ l, 0 ≤ t ≤ T; l = 1.0; T = 1.0$
 Начальные условия: $h(0,x) = φ(x); u(0,x) = ψ(x).$
@@ -20,11 +26,3 @@ $φ(x) = 2.0, x ≤ 0.5,\\
 f(t) = 0,\\
 s(t) = 0.$
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-$$\begin{equation*}
- \begin{cases}
-   \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, 
-   \\
-   \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
- \end{cases}
-\end{equation*}$$
