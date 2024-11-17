@@ -1,7 +1,7 @@
 Задана квазилинейная система уравнений мелкой воды, описывающая неустановившееся течение в тонком слое жидкости:
-$\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};$
+$\frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
 
-$\begin{equation*} 
+\begin{equation*} 
  \begin{cases}
    \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0,
    \\
