@@ -68,7 +68,7 @@ $A_1 ... A_5 -$параметры системы.
 ![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/ravnoves2.PNG)
 2)	Идентифицирована динамика автономной системы $(A_3,A_4 = 0)$ для заданых значений параметров $(A_1,A_2,A_5 = 0)$. Имеем:</br>
    $A_1=7$</br>
-![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/A1=7.PNG)
+![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/1.jpg)
    $A_1=9$</br>
 ![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/results/A1=9.PNG)
    
