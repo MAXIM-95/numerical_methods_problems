@@ -31,3 +31,5 @@ $$φ(x)=\begin{equation*}
 f(t) = 0,\\
 s(t) = 0.$$
 
+
+![Иллюстрация к проекту](https://github.com/MAXIM-95/numerical_methods_problems/dam_break/results/h10.jpg)
