@@ -53,7 +53,7 @@ $$\begin{equation*}
    \\
    Y_2'=Y_1*Y_3-Y_2+A_5,
    \\
-   Y_3'=-Y_1*Y_2-Y_3+A_5;
+   Y_3'=
  \end{cases}
 \end{equation*}$$
 
