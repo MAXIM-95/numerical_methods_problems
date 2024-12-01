@@ -49,7 +49,7 @@ s(t) = 0.$$
 
 $$\begin{equation*}
  \begin{cases}
-   Y_1^' = 0, 
+   Y_1^2 = 0, 
    \\
    \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
  \end{cases}
