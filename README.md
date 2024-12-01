@@ -41,3 +41,6 @@ s(t) = 0.$$
 2) Скорость жидкости на 10-м слое:
 
 ![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/u_10.jpg)
+
+
+# Задача 2 (папка wind)
