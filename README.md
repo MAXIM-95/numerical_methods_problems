@@ -36,11 +36,11 @@ s(t) = 0.$$
 Результаты работы программы:
 1) Толщина слоя жидкости на 10-м слое:
 
-![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/h_10.jpg)
+![Толщина](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/h_10.jpg)
 
 2) Скорость жидкости на 10-м слое:
 
-![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/u_10.jpg)
+![Скорость](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/u_10.jpg)
 
 
 # Задача 2 (папка wind)
@@ -60,5 +60,17 @@ $$\begin{equation*}
 Здесь $Y_1-$скорость поверхностного течения в океане,</br> $Y_2,Y_3-$температура поверхности воды, соответсвенно на западной и восточной окраинах водного бассейна,</br>
 $f(t)=A_3+A_4sin(2\pi t)$ - функция, описывающая влияние пассатных ветров (внешнее воздействие), </br>
 $A_1 ... A_5 -$параметры системы.
+
+Для решения данной системы использовался метод Эйлера, так как он прост в реализации и обладает достаточной для данной задачи точностью. Сама программа написана на языке Python. Скрипт генерирует решение системы в виде таблицы, которая затем подаётся на вход gnuplot для визуализации в виде графиков.
+
+Результаты работы программы:
+1)	При f(t) = 0 мы наблюдаем состояния равновесия:
+![Т](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/wind/results/ravnoves2.png)
+2)	Идентифицирована динамика автономной системы $(A_3,A_4 = 0)$ для заданых значений параметров $(A_1,A_2,A_5 = 0)$. Имеем:
+   $A_1=7$
+![Т](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/wind/results/A1=7.png)
+   $A_1=9$
+![Т](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/wind/results/A1=9.png)
+   
 
 
