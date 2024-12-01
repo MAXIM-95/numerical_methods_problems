@@ -52,8 +52,6 @@ $$\begin{equation*}
    Y_1^\prime*A_1*(Y_2-Y_3 )-A_2*(Y_1-f(t))= 0, 
    \\
    Y_2^\prime=Y_1*Y_3-Y_2+A_5,
-   \\
-   Y_3^\prime==-Y_1*Y_2-Y_3+A_5;
  \end{cases}
 \end{equation*}$$
 
