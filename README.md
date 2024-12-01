@@ -51,7 +51,7 @@ $$\begin{equation*}
  \begin{cases}
    Y_1'=A_1(Y_2-Y_3)-A_2(Y_1-f(t)), 
    \\
-   Y_2'=Y_1*Y_3-Y_2+A_5,
+   Y_2'=
    \\
    Y_3'=
  \end{cases}
