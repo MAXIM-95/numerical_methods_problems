@@ -49,7 +49,7 @@ s(t) = 0.$$
 
 $$\begin{equation*}
  \begin{cases}
-   \frac{∂h}{∂t} + \frac{∂hu}{∂x} = 0, 
+   \Y_1^'=A_1*(Y_2-Y_3 ) = 0, 
    \\
    \frac{∂hu}{∂t} + \frac{∂}{∂x}(hu^2 + \frac{gh^2}{2}) = -gh*\frac{∂b}{∂x};
  \end{cases}
