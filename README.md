@@ -49,7 +49,7 @@ s(t) = 0.$$
 
 $$\begin{equation*}
  \begin{cases}
-   Y_1^\prime*A_1*(Y_2-Y_3 )-A_2*(Y_1-f(t))= 0, 
+   Y_1'=A_1*(Y_2-Y_3)-A_2*(Y_1-f(t)), 
    \\
    Y_2^\prime=Y_1*Y_3-Y_2+A_5,
  \end{cases}
