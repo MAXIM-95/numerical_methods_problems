@@ -32,6 +32,10 @@ f(t) = 0,\\
 s(t) = 0.$$
 
 Результаты работы программы:
-1) Скорость жикости на 10-м слое:
+1) Толщина слоя жидкости на 10-м слое:
 
-![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/h1.jpg)
+![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/h_10.jpg)
+
+2) Скорость жидкости на 10-м слое:
+
+![Толщина первого слоя](https://github.com/MAXIM-95/numerical_methods_problems/blob/main/dam_break/results/u_10.jpg)
