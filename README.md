@@ -65,12 +65,12 @@ $A_1 ... A_5 -$параметры системы.
 
 Результаты работы программы:
 1)	При f(t) = 0 мы наблюдаем состояния равновесия:
-![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/ravnoves2.PNG)
+![Равновесие](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/ravnoves2.PNG)
 2)	Идентифицирована динамика автономной системы $(A_3,A_4 = 0)$ для заданых значений параметров $(A_1,A_2,A_5 = 0)$. Имеем:</br>
    $A_1=7$</br>
-![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/1.JPG)
+![A1=7](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/result/A1=7.PNG)
    $A_1=9$</br>
-![Т](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/results/A1=9.PNG)
+   ![A1=9](https://github.com/MAXIM-95/numerical_methods_problems/tree/main/wind/results/A1=9.PNG)
    
 
 
